@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Command.png filter=lfs diff=lfs merge=lfs -text
+HolographicAcademy-Holograms-240-SharedHolograms filter=lfs diff=lfs merge=lfs -text
+HololensHud.png filter=lfs diff=lfs merge=lfs -text
